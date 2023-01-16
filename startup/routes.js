@@ -30,7 +30,7 @@ module.exports = function (app) {
     "http://localhost:3001",
     "http://localhost:3003",
     "http://localhost:3000",
-    "https://the-oportunist-frontend.vercel.app",
+    "https://mgm-frontend-cyan.vercel.app",
     "https://the-oportunist-frontend-340vwopl6-sulesuleman.vercel.app",
   ];
 
